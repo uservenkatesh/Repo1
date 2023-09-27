@@ -1,0 +1,21 @@
+package inheritance;
+
+public class Parent {
+	
+	int a;
+	
+    String st;
+	
+	static void parent_method() {
+	
+		System.out.println("This method is from parent class");
+	
+	}
+
+    void parent_method1() {
+    	
+    	System.out.println("This method2 is from parent class");
+    	
+    }
+
+}

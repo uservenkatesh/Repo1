@@ -1,0 +1,10 @@
+package pack1;
+
+public class Even_odd_sum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
